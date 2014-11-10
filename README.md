@@ -13,6 +13,6 @@ ruby chess.rb
 ```
 * play! 
 
-.* A W S D keys are used to control the cursor
-.* R to select
-.* Q to quit
+ * A W S D keys are used to control the cursor
+ * R to select
+ * Q to quit
